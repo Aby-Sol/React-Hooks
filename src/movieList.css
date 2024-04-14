@@ -1,0 +1,13 @@
+.movie-list{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.WatchList{
+    font-family:  Arial, Helvetica, sans-serif  ;
+    text-align: center;
+    font-size: 45px;
+    margin-top:30px;
+}
